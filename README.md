@@ -8,7 +8,7 @@
 
 ## 🛠️ Cara Instalasi dan Menjalankan Proyek
 
-Pastikan Anda sudah memiliki PHP, Composer, dan Node.js/NPM di lingkungan Anda.
+Pastikan Anda sudah memiliki PHP dan Composer di lingkungan Anda.
 
 1. **Clone Repositori**
    ```bash
@@ -19,7 +19,7 @@ Pastikan Anda sudah memiliki PHP, Composer, dan Node.js/NPM di lingkungan Anda.
    cd pos_project
    ```
 
-2. **Install Dependensi Backend**
+2. **Install Dependensi**
    ```bash
    composer install
    ```
